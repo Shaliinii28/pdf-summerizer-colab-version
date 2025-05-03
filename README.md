@@ -967,6 +967,3 @@ print(f"Flask app is running at: {public_url}")
     drive.mount('/content/drive')
     # Access PDFs in /content/drive/MyDrive
     ```
-
-## Support
-For issues or additional features (e.g., async processing, production deployment), share error logs or requirements with your support contact.
